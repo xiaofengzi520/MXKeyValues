@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  MXKeyValues
+//  MXKeyValuesSimple
 //
-//  Created by muxiao on 2016/11/25.
+//  Created by muxiao on 2016/12/1.
 //  Copyright © 2016年 muxiao. All rights reserved.
 //
 

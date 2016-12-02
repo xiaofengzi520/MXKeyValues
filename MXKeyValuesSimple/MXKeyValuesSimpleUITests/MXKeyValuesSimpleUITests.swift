@@ -1,14 +1,14 @@
 //
-//  MXKeyValuesUITests.swift
-//  MXKeyValuesUITests
+//  MXKeyValuesSimpleUITests.swift
+//  MXKeyValuesSimpleUITests
 //
-//  Created by muxiao on 2016/11/25.
+//  Created by muxiao on 2016/12/1.
 //  Copyright © 2016年 muxiao. All rights reserved.
 //
 
 import XCTest
 
-class MXKeyValuesUITests: XCTestCase {
+class MXKeyValuesSimpleUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
